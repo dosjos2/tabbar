@@ -1,0 +1,19 @@
+bin/
+obj/
+dist/
+artifacts/
+*.user
+.buildprofile/
+.packages/
+
+# Local configuration and credentials (all directories).
+appsettings*.json
+appsettings*.json.*
+.env
+.env.*
+*.pfx
+*.p12
+*.key
+.aws/
+.codex/
+.vs/
